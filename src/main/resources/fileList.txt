@@ -1,0 +1,2 @@
+/Users/zhangke/work/caixin/project/xpleaf/storm-statistic/src/main/resources/log4j.properties
+/Users/zhangke/work/caixin/project/xpleaf/storm-statistic/src/main/resources/redis.properties
